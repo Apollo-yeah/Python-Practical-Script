@@ -1,6 +1,6 @@
 # Python M3U下载脚本介绍
 
-增加获取得到的M3U资源链接，以列表的形式填入到[data集合](./src/download/data.py)中，如下所示：
+增加获取得到的M3U资源链接，以列表的形式填入到[data集合](../../src/download/data.py)中，如下所示：
 
 ```python
 [
